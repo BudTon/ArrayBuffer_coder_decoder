@@ -8,7 +8,7 @@
 
 ## `ArrayBuffer`
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/qxv7a6eudws5no0w?svg=true)](https://ci.appveyor.com/project/BudTon/arraybuffer-coder-decoder)
 
 ### Легенда
 
